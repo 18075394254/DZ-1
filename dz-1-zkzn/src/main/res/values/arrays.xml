@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tab_titles">
+        <item>连接蓝牙</item>
+        <item>设置信息</item>
+        <item>开始测试</item>
+        <item>打开文件</item>
+
+    </string-array>
+</resources>
+

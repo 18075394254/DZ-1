@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DZ-1</string>
+    <string name="setting">设置</string>
+    <string name="testid">电梯编号</string>
+    <string name="operator">操作人员</string>
+    <string name="company">测试单位</string>
+    <string name="supplement">补充信息</string>
+    <string name="ratedSpeed">额定速度</string>
+    <string name="ratedLoad">额定载荷</string>
+    <string name="location">测试地点</string>
+    <string name="save_text">保存</string>
+    <string name="cancel_text">取消</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yindao">DZ-1</string>
+    <string name="chooseFile">选择文件夹</string>
+    <string name="backMain">返回菜单</string>
+</resources>

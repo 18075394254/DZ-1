@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTab" parent="Widget.Design.TabLayout" >
+
+    <item name="tabIndicatorHeight">2dp</item>
+    </style>
+</resources>

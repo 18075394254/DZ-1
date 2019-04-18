@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:drawable="@drawable/setinfo" />
+    <item android:state_selected="false" android:drawable="@drawable/setinfo_noselect" />
+</selector>-->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:drawable="@drawable/setinfo" android:state_selected="true" />
+
+<item android:drawable="@drawable/setinfo_noselect" />
+</selector>
